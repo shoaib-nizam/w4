@@ -1,0 +1,32 @@
+/* .container{
+    border: 2px solid black
+}
+
+
+.row{
+    border: 2px solid green;
+}
+
+
+.col-12{
+    border: 2px solid red;
+}
+
+
+.col-3, .col-4, .col-6{
+    border: 2px solid red;
+} */
+
+#i{
+    height: 80px;
+    width: 80px;
+}
+
+#slider_image{
+    height: 500px;
+}
+
+
+#product_image{
+    height: 250px;
+}
